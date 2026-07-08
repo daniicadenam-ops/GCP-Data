@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "GCP-Data",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
