@@ -6,7 +6,8 @@ def run():
     options = PipelineOptions(
     #    runner="DirectRunner",  # para correr local
         runner="DataflowRunner",  # Cambiar a DataflowRunner para GCP en dataflow
-        project="gcp-data-engineer-03-502218",
+    #    project="gcp-data-engineer-04-502218",
+        project="gcp-data-engineer-04",
         region="us-east1",
         temp_location="gs://gcs-bucket-04/temp"
     )
